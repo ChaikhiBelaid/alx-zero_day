@@ -1,1 +1,2 @@
-"Update locally Readme of git directory" 
+"Update Readme of git directory" 
+
